@@ -1,53 +1,99 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Abdikadir%20Kosar%20Osman&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=60&descSize=20"/>
+# 👋 Hi, I'm Abdikadir Kosar Osman
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;AI+Engineer;Full+Stack+Developer;Building+AI-Powered+Applications;React+%7C+Node.js+%7C+Python;Always+Learning+New+Technologies"/>
+### 🚀 AI Engineer • Full Stack Developer • Software Engineer
 
-<p>
+> **Building Intelligent AI Solutions & Modern Web Applications**
 
-<a href="https://github.com/Abdikadirkosar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://abdikadirkosarr.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:abdikadirkosara@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+[🌐 Portfolio](https://abdikadirkosarr.vercel.app/) •
+[📧 Email](mailto:abdikadirkosara@gmail.com) •
+[🐙 GitHub](https://github.com/Abdikadirkosar)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-💡 Passionate about Artificial Intelligence, Software Engineering, and Full Stack Development.
+I'm **Abdikadir Kosar Osman**, a Computer Science student and passionate Full Stack Developer with a strong interest in Artificial Intelligence and Software Engineering.
 
-🚀 I build scalable web applications, AI-powered systems, and enterprise software with a strong focus on clean architecture and user experience.
+I enjoy building scalable web applications, enterprise systems, and AI-powered solutions that solve real-world problems. My focus is writing clean, maintainable code while continuously learning modern technologies.
 
-🎯 My mission is to become a world-class AI Engineer creating innovative solutions that make a real impact.
+### 🎯 Current Focus
 
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,ts"/><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase"/><br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,azure,gcp,vscode"/>
-
-</p>
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Development
+- ☁️ Cloud Computing
+- 🧠 Machine Learning
+- 🚀 Software Architecture
 
 ---
 
-## 📊 GitHub Analytics
+# ⚡ Tech Stack
+
+### Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+
+### Frontend
+
+![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### Backend
+
+![Node](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Python](https://skillicons.dev/icons?i=python)
+
+### Database
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Projects
+
+- AI Assistant
+- AI Attendance System
+- AI Chatbot
+
+### 🌐 Web Development
+
+- Portfolio Website
+- Restaurant Management System
+- Tailor Management System
+- Hotel Management System
+
+### 💻 Desktop Applications
+
+- C# Windows Forms
+- Java Desktop Projects
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -57,34 +103,62 @@
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Abdikadirkosar&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 Achievements
+# 🏆 GitHub Trophies
 
-🏅 AI Projects
+<p align="center">
 
-💻 Full Stack Applications
+<img src="https://github-profile-trophy.vercel.app/?username=Abdikadirkosar&theme=algolia&no-frame=true&column=4"/>
 
-🚀 Enterprise Systems
-
-🌐 Portfolio Website
-
-📚 Continuous Learning
+</p>
 
 ---
 
-## 🌍 Portfolio
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdikadirkosar&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌍 Portfolio
 
 ### 🔗 https://abdikadirkosarr.vercel.app/
+
+Explore my latest projects, skills, and experience.
+
+---
+
+# 📬 Contact Me
+
+📧 **Email:** abdikadirkosara@gmail.com
+
+🌐 **Portfolio:** https://abdikadirkosarr.vercel.app/
+
+🐙 **GitHub:** https://github.com/Abdikadirkosar
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Create. Innovate."
+## 💡 Quote
+
+> **"First, solve the problem. Then, write the code."**
+
+⭐ Thanks for visiting my profile!
 
 </div>
