@@ -1,105 +1,319 @@
-<div align="center">
+You are an award-winning UI/UX designer, GitHub profile expert, and senior frontend engineer with over 20 years of experience creating world-class GitHub profile READMEs.
 
-<img src="assets/profile.png" width="150" style="border-radius:50%;" alt="Abdikadir Kosar Osman"/>
+Your mission is to create a premium, futuristic GitHub Profile README that looks like a modern developer dashboard, similar to the best GitHub profiles in the world.
 
-# Abdikadir Kosar Osman
+========================
+PERSONAL INFORMATION
+========================
 
-### AI Engineer & Full-Stack Developer — Hargeisa, Somaliland 🇸🇴
+Name:
+Abdikadir Kosar Osman
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+AI+Agents+%26+LLM-powered+systems;Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+Python;Turning+ideas+into+production-ready+software)](https://git.io/typing-svg)
+Title:
+AI Engineer | Full Stack Developer | Software Engineer
 
-<p>
-  <a href="https://github.com/Abdikadirkosar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abdikadirkosara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://abdikadirkosarr.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+Location:
+Hargeisa, Somaliland
 
-</div>
+Portfolio:
+https://abdikadirkosarr.vercel.app/
 
-<br/>
+GitHub:
+https://github.com/Abdikadirkosar
 
-## About Me
+Email:
+abdikadirkosara@gmail.com
 
-I'm a Full-Stack Developer focused on **AI Agents** and **LLM integration**, currently pursuing a **BSc in Information Technology** at New Generation University (expected 2027). I build software tailored to the Somaliland market — Somali-language interfaces, mobile-money integrations (**EVC Plus**, **Zaad**), and locally relevant AI solutions.
+========================
+STYLE
+========================
 
-```yaml
-role:       Full-Stack Developer / AI Engineer
-location:   Hargeisa, Somaliland
-education:  BSc Information Technology — New Generation University (2027)
-focus:      AI Agents · LLM Orchestration · Full-Stack Web Systems
-languages:  Somali (native) · English
-```
+Dark Theme
 
-<br/>
+Cyberpunk
 
-## Tech Stack
+Neon Blue + Purple
 
-<div align="center">
+Glassmorphism
 
-**Languages & Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+Modern Dashboard UI
 
-**AI / LLM**
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+Premium
 
-**Cloud & Databases**
-<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+Minimal
 
-</div>
+Luxury
 
-<br/>
+Animated
 
-## Featured Projects
+Responsive
 
-> ⚠️ Verify names, links, and descriptions before publishing — placeholders below reflect stated project scope only.
+Professional
 
-| Project | Description | Stack |
-|---|---|---|
-| **AGMS** — Arabsiyo Gym Management System | Desktop application for gym membership & operations management | C# WinForms, SQL Server LocalDB |
-| **SMPMS** — Military Personnel Management System | Personnel records management across multiple brigades | Next.js, Node.js, PostgreSQL |
-| **HeloShaqo** | Somaliland-focused employment marketplace | React |
-| **IT Support AI Agent** | Bilingual (Somali/English) AI agent scoped to IT support topics | Next.js, Vercel AI SDK, OpenRouter |
-| **HopeForward** | NGO management system | React, Node.js, MongoDB |
+Beautiful spacing
 
-<br/>
+High-end typography
 
-## GitHub Stats
+Looks like Apple's design quality mixed with GitHub dashboard.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdikadirkosar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdikadirkosar&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+========================
+HEADER
+========================
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdikadirkosar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+Create a beautiful animated hero section containing:
 
-<br/>
+Large neon title
 
-## Get in Touch
+"Hello, I'm"
 
-<div align="center">
+ABDIKADIR KOSAR OSMAN
 
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdikadirkosar)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdikadirkosara@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdikadirkosarr.vercel.app/)
+Subtitle
 
-</div>
+AI Engineer
+
+Full Stack Developer
+
+Software Engineer
+
+Animated typing effect
+
+Beautiful CTA buttons
+
+Portfolio
+
+GitHub
+
+Email
+
+LinkedIn placeholder
+
+Professional profile image placeholder
+
+========================
+ABOUT ME
+========================
+
+Create an elegant About section.
+
+Include:
+
+Computer Science Student
+
+Passionate AI Engineer
+
+Love building scalable applications
+
+Machine Learning
+
+LLMs
+
+AI Agents
+
+Cloud Computing
+
+Software Architecture
+
+Always learning
+
+========================
+TECH STACK
+========================
+
+Programming
+
+Python
+
+Java
+
+JavaScript
+
+TypeScript
+
+C#
+
+C++
+
+Frontend
+
+React
+
+Next.js
+
+HTML5
+
+CSS3
+
+TailwindCSS
+
+Backend
+
+Node.js
+
+Express.js
+
+Django
+
+Flask
+
+ASP.NET
+
+Databases
+
+PostgreSQL
+
+MongoDB
+
+MySQL
+
+Firebase
+
+Supabase
+
+DevOps
+
+Git
+
+GitHub
+
+Docker
+
+Linux
+
+AWS
+
+Azure
+
+GCP
+
+Vercel
+
+VS Code
+
+========================
+GITHUB DASHBOARD
+========================
+
+Display:
+
+GitHub Stats
+
+Top Languages
+
+GitHub Streak
+
+Contribution Graph
+
+Contribution Snake Animation
+
+GitHub Activity
+
+GitHub Trophies
+
+Visitors Counter
+
+GitHub Metrics
+
+========================
+PROJECTS
+========================
+
+Beautiful project cards for:
+
+AI Chat Assistant
+
+Restaurant POS System
+
+Tailor Management System
+
+Hotel Management System
+
+Portfolio Website
+
+School Management System
+
+Gym Management System
+
+========================
+PORTFOLIO PREVIEW
+========================
+
+Create a portfolio preview card using
+
+https://abdikadirkosarr.vercel.app/
+
+========================
+CONTACT
+========================
+
+Beautiful contact section with icons.
+
+GitHub
+
+Portfolio
+
+Email
+
+LinkedIn placeholder
+
+========================
+FOOTER
+========================
+
+Animated footer
+
+Professional quote
+
+Copyright
+
+Modern glowing effects
+
+========================
+ANIMATIONS
+========================
+
+Typing Animation
+
+Floating Icons
+
+Animated Badges
+
+Hover Effects
+
+Gradient Text
+
+Neon Glow
+
+Glass Cards
+
+Animated Buttons
+
+========================
+OUTPUT
+========================
+
+Generate ONE complete README.md file.
+
+Everything must be production-ready.
+
+No placeholders except LinkedIn.
+
+Code must be clean.
+
+Use Markdown + HTML.
+
+Use shields.io badges.
+
+Use skillicons.dev.
+
+Use GitHub Readme Stats.
+
+Use GitHub Profile Trophy.
+
+Use Contribution Snake.
+
+Use Activity Graph.
+
+Use modern badges.
+
+Make it look like one of the Top 1% GitHub Profiles in the world.
