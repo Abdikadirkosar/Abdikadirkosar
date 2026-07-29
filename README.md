@@ -1,42 +1,28 @@
-You are an award-winning UI/UX designer, GitHub profile expert, and senior frontend engineer with over 20 years of experience creating world-class GitHub profile READMEs.
+# ROLE
 
-Your mission is to create a premium, futuristic GitHub Profile README that looks like a modern developer dashboard, similar to the best GitHub profiles in the world.
+You are a world-class Senior UI/UX Designer, GitHub Profile Designer, SVG Animator, Frontend Architect, and Creative Director with over 20 years of experience.
 
-========================
-PERSONAL INFORMATION
-========================
+Your task is to create a GitHub Profile README that visually looks like a premium futuristic dashboard, almost identical in style, layout, spacing, and quality to the provided reference image.
 
-Name:
-Abdikadir Kosar Osman
+Do NOT generate a normal README with plain markdown sections.
 
-Title:
-AI Engineer | Full Stack Developer | Software Engineer
+Instead, build a complete visual GitHub profile experience using Markdown + HTML + SVG + Shields + Dynamic GitHub APIs.
 
-Location:
-Hargeisa, Somaliland
+================================================
 
-Portfolio:
-https://abdikadirkosarr.vercel.app/
+DESIGN STYLE
 
-GitHub:
-https://github.com/Abdikadirkosar
-
-Email:
-abdikadirkosara@gmail.com
-
-========================
-STYLE
-========================
+================================================
 
 Dark Theme
 
 Cyberpunk
 
-Neon Blue + Purple
+Neon Blue
+
+Purple
 
 Glassmorphism
-
-Modern Dashboard UI
 
 Premium
 
@@ -44,29 +30,83 @@ Minimal
 
 Luxury
 
-Animated
+Apple-level UI
+
+Modern Dashboard
 
 Responsive
 
+Pixel Perfect
+
 Professional
 
-Beautiful spacing
+Animated
 
-High-end typography
+================================================
 
-Looks like Apple's design quality mixed with GitHub dashboard.
+PERSONAL INFORMATION
 
-========================
-HEADER
-========================
+================================================
 
-Create a beautiful animated hero section containing:
+Name
 
-Large neon title
+Abdikadir Kosar Osman
 
-"Hello, I'm"
+Headline
 
-ABDIKADIR KOSAR OSMAN
+AI Engineer
+
+Full Stack Developer
+
+Software Engineer
+
+Location
+
+Hargeisa, Somaliland
+
+Portfolio
+
+https://abdikadirkosarr.vercel.app/
+
+GitHub
+
+https://github.com/Abdikadirkosar
+
+Email
+
+abdikadirkosara@gmail.com
+
+================================================
+
+MAIN LAYOUT
+
+================================================
+
+Create one large dashboard exactly like a futuristic operating system.
+
+Top Hero
+
+------------------------------------------------
+
+Left
+
+Large circular profile image
+
+Neon glowing border
+
+Online indicator
+
+Status
+
+Center
+
+Large text
+
+Hello, I'm
+
+ABDIKADIR
+
+KOSAR OSMAN
 
 Subtitle
 
@@ -76,9 +116,11 @@ Full Stack Developer
 
 Software Engineer
 
-Animated typing effect
+Professional description
 
-Beautiful CTA buttons
+Beautiful animated typing effect
+
+CTA buttons
 
 Portfolio
 
@@ -86,41 +128,61 @@ GitHub
 
 Email
 
-LinkedIn placeholder
+LinkedIn
 
-Professional profile image placeholder
+Right
 
-========================
+Large AI Robot
+
+Cyberpunk city
+
+Laptop with code
+
+Floating holograms
+
+Neon lighting
+
+================================================
+
+SECOND ROW
+
+================================================
+
+Four Glass Cards
+
+Portfolio
+
+GitHub
+
+Email
+
+Location
+
+================================================
+
+THIRD ROW
+
+================================================
+
+Left Card
+
 ABOUT ME
-========================
 
-Create an elegant About section.
+Professional introduction
 
-Include:
+Career objective
 
-Computer Science Student
+Learning goals
 
-Passionate AI Engineer
+Focus
 
-Love building scalable applications
+Current technologies
 
-Machine Learning
+Center Card
 
-LLMs
-
-AI Agents
-
-Cloud Computing
-
-Software Architecture
-
-Always learning
-
-========================
 TECH STACK
-========================
 
-Programming
+Programming Languages
 
 Python
 
@@ -140,17 +202,17 @@ React
 
 Next.js
 
+TailwindCSS
+
 HTML5
 
 CSS3
-
-TailwindCSS
 
 Backend
 
 Node.js
 
-Express.js
+Express
 
 Django
 
@@ -158,7 +220,7 @@ Flask
 
 ASP.NET
 
-Databases
+Database
 
 PostgreSQL
 
@@ -170,7 +232,7 @@ Firebase
 
 Supabase
 
-DevOps
+Tools
 
 Git
 
@@ -180,6 +242,8 @@ Docker
 
 Linux
 
+VS Code
+
 AWS
 
 Azure
@@ -188,37 +252,51 @@ GCP
 
 Vercel
 
-VS Code
+Right Card
 
-========================
-GITHUB DASHBOARD
-========================
-
-Display:
+GITHUB ANALYTICS
 
 GitHub Stats
 
 Top Languages
 
-GitHub Streak
+Coding Time
+
+Commits
+
+Repositories
+
+Stars
+
+Followers
+
+================================================
+
+FOURTH ROW
+
+================================================
+
+Contribution Snake
+
+Animated Snake
 
 Contribution Graph
 
-Contribution Snake Animation
+Portfolio Preview
 
-GitHub Activity
+Live Portfolio Screenshot
 
-GitHub Trophies
+================================================
 
-Visitors Counter
+FIFTH ROW
 
-GitHub Metrics
+================================================
 
-========================
-PROJECTS
-========================
+FEATURED PROJECTS
 
-Beautiful project cards for:
+Create premium project cards.
+
+Projects
 
 AI Chat Assistant
 
@@ -226,94 +304,132 @@ Restaurant POS System
 
 Tailor Management System
 
-Hotel Management System
-
-Portfolio Website
-
 School Management System
+
+Hotel Management System
 
 Gym Management System
 
-========================
-PORTFOLIO PREVIEW
-========================
+Portfolio Website
 
-Create a portfolio preview card using
+Each project card must contain
 
-https://abdikadirkosarr.vercel.app/
+Icon
 
-========================
-CONTACT
-========================
+Description
 
-Beautiful contact section with icons.
+Technology badges
+
+GitHub button
+
+Live Demo button
+
+Hover Animation
+
+================================================
+
+BOTTOM
+
+================================================
+
+Contact Card
 
 GitHub
+
+LinkedIn
 
 Portfolio
 
 Email
 
-LinkedIn placeholder
+WhatsApp
 
-========================
-FOOTER
-========================
+Professional Quote
 
-Animated footer
+Current Time Widget
 
-Professional quote
+Visitor Counter
 
-Copyright
+Footer
 
-Modern glowing effects
+================================================
 
-========================
 ANIMATIONS
-========================
 
-Typing Animation
+================================================
 
-Floating Icons
+Typing Text
 
-Animated Badges
+Hover Animation
 
-Hover Effects
+Glass Glow
 
 Gradient Text
 
-Neon Glow
+Pulse Effect
 
-Glass Cards
+Floating Icons
 
-Animated Buttons
+Neon Border
 
-========================
-OUTPUT
-========================
+Animated SVG
 
-Generate ONE complete README.md file.
+================================================
 
-Everything must be production-ready.
+BADGES
 
-No placeholders except LinkedIn.
+================================================
 
-Code must be clean.
+Use
 
-Use Markdown + HTML.
+shields.io
 
-Use shields.io badges.
+skillicons.dev
 
-Use skillicons.dev.
+GitHub Readme Stats
 
-Use GitHub Readme Stats.
+GitHub Streak
 
-Use GitHub Profile Trophy.
+GitHub Activity Graph
 
-Use Contribution Snake.
+GitHub Trophy
 
-Use Activity Graph.
+Snake Contribution
 
-Use modern badges.
+Visitor Counter
 
-Make it look like one of the Top 1% GitHub Profiles in the world.
+================================================
+
+TECHNOLOGIES
+
+================================================
+
+Use HTML
+
+Markdown
+
+Inline SVG
+
+Responsive Tables
+
+Custom CSS inside HTML where GitHub allows it
+
+Perfect spacing
+
+No unnecessary empty spaces
+
+================================================
+
+IMPORTANT
+
+================================================
+
+I do NOT want a traditional GitHub README.
+
+I want the profile to visually resemble a premium futuristic dashboard exactly like the reference image, with the same layout philosophy, glassmorphism cards, neon color palette, dashboard sections, and professional appearance.
+
+Every section should look like part of one connected dashboard.
+
+The final output must be one complete README.md file that is production-ready, visually impressive, and polished to Top 1% GitHub profile quality.
+
+Do not omit any section. Do not simplify the design. Maximize visual quality while staying compatible with GitHub README rendering.
