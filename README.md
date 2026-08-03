@@ -1,435 +1,118 @@
-# ROLE
+<h1 align="center">
+  Hi 👋, I'm Abdikadir Kosar Osman
+</h1>
 
-You are a world-class Senior UI/UX Designer, GitHub Profile Designer, SVG Animator, Frontend Architect, and Creative Director with over 20 years of experience.
+<h3 align="center">
+AI Software Developer | Prompt Engineer | AI Vibe Coder
+</h3>
 
-Your task is to create a GitHub Profile README that visually looks like a premium futuristic dashboard, almost identical in style, layout, spacing, and quality to the provided reference image.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=AI+Software+Developer;Prompt+Engineer;AI+Vibe+Coder;Full+Stack+Developer;Building+Intelligent+Software+with+AI" />
+  </a>
+</p>
 
-Do NOT generate a normal README with plain markdown sections.
+---
 
-Instead, build a complete visual GitHub profile experience using Markdown + HTML + SVG + Shields + Dynamic GitHub APIs.
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-================================================
+## 🚀 About Me
 
-DESIGN STYLE
+- 🤖 AI Software Developer
+- 🧠 Prompt Engineer
+- ⚡ AI Vibe Coder
+- 💻 Full Stack Developer
+- 🎯 Passionate about AI-powered applications
+- 📚 Computer Science Student
+- 🌱 Always learning new technologies
+- 🚀 Building scalable and modern software
 
-================================================
+---
 
-Dark Theme
+## 🛠 Tech Stack
 
-Cyberpunk
+### Languages
 
-Neon Blue
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Purple
+### Frontend
 
-Glassmorphism
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-Premium
+### Backend
 
-Minimal
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
-Luxury
+### Database
 
-Apple-level UI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-Modern Dashboard
+### AI Tools
 
-Responsive
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude_Code-FF6B35?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
 
-Pixel Perfect
+---
 
-Professional
+# 💼 Featured Projects
 
-Animated
+🎓 School Management System
 
-================================================
+🍽 Restaurant POS System
 
-PERSONAL INFORMATION
+👔 Tailor Management System
 
-================================================
+🏨 Hotel Management System
 
-Name
+🌐 Professional Portfolio Websites
 
-Abdikadir Kosar Osman
+---
 
-Headline
+## 📊 GitHub Stats
 
-AI Engineer
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abdikadirkosar&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-Full Stack Developer
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdikadirkosar&theme=tokyonight&hide_border=true"/>
+</p>
 
-Software Engineer
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdikadirkosar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-Location
+---
 
-Hargeisa, Somaliland
+## 🏆 GitHub Trophy
 
-Portfolio
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abdikadirkosar&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 
-https://abdikadirkosarr.vercel.app/
+---
 
-GitHub
+## 📫 Contact
 
-https://github.com/Abdikadirkosar
+📧 **Email:** Abdikadirkosara@gmail.com
 
-Email
+🌐 **Portfolio:** https://abdikadirkosarr.vercel.app/
 
-abdikadirkosara@gmail.com
+🐙 **GitHub:** https://github.com/Abdikadirkosar
 
-================================================
+---
 
-MAIN LAYOUT
+<p align="center">
 
-================================================
+### ⭐ "Building Intelligent Software with AI"
 
-Create one large dashboard exactly like a futuristic operating system.
-
-Top Hero
-
-------------------------------------------------
-
-Left
-
-Large circular profile image
-
-Neon glowing border
-
-Online indicator
-
-Status
-
-Center
-
-Large text
-
-Hello, I'm
-
-ABDIKADIR
-
-KOSAR OSMAN
-
-Subtitle
-
-AI Engineer
-
-Full Stack Developer
-
-Software Engineer
-
-Professional description
-
-Beautiful animated typing effect
-
-CTA buttons
-
-Portfolio
-
-GitHub
-
-Email
-
-LinkedIn
-
-Right
-
-Large AI Robot
-
-Cyberpunk city
-
-Laptop with code
-
-Floating holograms
-
-Neon lighting
-
-================================================
-
-SECOND ROW
-
-================================================
-
-Four Glass Cards
-
-Portfolio
-
-GitHub
-
-Email
-
-Location
-
-================================================
-
-THIRD ROW
-
-================================================
-
-Left Card
-
-ABOUT ME
-
-Professional introduction
-
-Career objective
-
-Learning goals
-
-Focus
-
-Current technologies
-
-Center Card
-
-TECH STACK
-
-Programming Languages
-
-Python
-
-Java
-
-JavaScript
-
-TypeScript
-
-C#
-
-C++
-
-Frontend
-
-React
-
-Next.js
-
-TailwindCSS
-
-HTML5
-
-CSS3
-
-Backend
-
-Node.js
-
-Express
-
-Django
-
-Flask
-
-ASP.NET
-
-Database
-
-PostgreSQL
-
-MongoDB
-
-MySQL
-
-Firebase
-
-Supabase
-
-Tools
-
-Git
-
-GitHub
-
-Docker
-
-Linux
-
-VS Code
-
-AWS
-
-Azure
-
-GCP
-
-Vercel
-
-Right Card
-
-GITHUB ANALYTICS
-
-GitHub Stats
-
-Top Languages
-
-Coding Time
-
-Commits
-
-Repositories
-
-Stars
-
-Followers
-
-================================================
-
-FOURTH ROW
-
-================================================
-
-Contribution Snake
-
-Animated Snake
-
-Contribution Graph
-
-Portfolio Preview
-
-Live Portfolio Screenshot
-
-================================================
-
-FIFTH ROW
-
-================================================
-
-FEATURED PROJECTS
-
-Create premium project cards.
-
-Projects
-
-AI Chat Assistant
-
-Restaurant POS System
-
-Tailor Management System
-
-School Management System
-
-Hotel Management System
-
-Gym Management System
-
-Portfolio Website
-
-Each project card must contain
-
-Icon
-
-Description
-
-Technology badges
-
-GitHub button
-
-Live Demo button
-
-Hover Animation
-
-================================================
-
-BOTTOM
-
-================================================
-
-Contact Card
-
-GitHub
-
-LinkedIn
-
-Portfolio
-
-Email
-
-WhatsApp
-
-Professional Quote
-
-Current Time Widget
-
-Visitor Counter
-
-Footer
-
-================================================
-
-ANIMATIONS
-
-================================================
-
-Typing Text
-
-Hover Animation
-
-Glass Glow
-
-Gradient Text
-
-Pulse Effect
-
-Floating Icons
-
-Neon Border
-
-Animated SVG
-
-================================================
-
-BADGES
-
-================================================
-
-Use
-
-shields.io
-
-skillicons.dev
-
-GitHub Readme Stats
-
-GitHub Streak
-
-GitHub Activity Graph
-
-GitHub Trophy
-
-Snake Contribution
-
-Visitor Counter
-
-================================================
-
-TECHNOLOGIES
-
-================================================
-
-Use HTML
-
-Markdown
-
-Inline SVG
-
-Responsive Tables
-
-Custom CSS inside HTML where GitHub allows it
-
-Perfect spacing
-
-No unnecessary empty spaces
-
-================================================
-
-IMPORTANT
-
-================================================
-
-I do NOT want a traditional GitHub README.
-
-I want the profile to visually resemble a premium futuristic dashboard exactly like the reference image, with the same layout philosophy, glassmorphism cards, neon color palette, dashboard sections, and professional appearance.
-
-Every section should look like part of one connected dashboard.
-
-The final output must be one complete README.md file that is production-ready, visually impressive, and polished to Top 1% GitHub profile quality.
-
-Do not omit any section. Do not simplify the design. Maximize visual quality while staying compatible with GitHub README rendering.
+</p>
