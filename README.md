@@ -10,7 +10,7 @@
 
 </div>
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" src="./assets/profile.jpg">
 
 ## 🚀 About Me
 
