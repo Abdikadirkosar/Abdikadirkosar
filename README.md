@@ -1,118 +1,207 @@
-<h1 align="center">
-  Hi 👋, I'm Abdikadir Kosar Osman
-</h1>
+<div align="center">
 
-<h3 align="center">
-AI Software Developer | Prompt Engineer | AI Vibe Coder
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Abdikadir%20Kosar%20Osman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=AI+Software+Developer;Prompt+Engineer;AI+Vibe+Coder;Full+Stack+Developer;Building+Intelligent+Software+with+AI" />
-  </a>
-</p>
+# 👋 Hi, I'm Abdikadir Kosar Osman
 
----
+### 🤖 AI Software Developer | 🧠 Prompt Engineer | ⚡ AI Vibe Coder
 
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Software+Developer;Prompt+Engineering+Specialist;AI+Vibe+Coder;Full+Stack+Developer;Building+Intelligent+Software+with+AI"/>
+
+</div>
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
-- 🤖 AI Software Developer
-- 🧠 Prompt Engineer
-- ⚡ AI Vibe Coder
-- 💻 Full Stack Developer
-- 🎯 Passionate about AI-powered applications
-- 📚 Computer Science Student
-- 🌱 Always learning new technologies
-- 🚀 Building scalable and modern software
+I'm an **AI Software Developer, Prompt Engineer, and AI Vibe Coder** — a Computer Science student at New Generation University, Somaliland — building intelligent, scalable, and modern software.
+
+- 🤖 Artificial Intelligence
+- 🧠 Prompt Engineering
+- ⚡ AI-assisted development
+- 💻 Full Stack development
+- 🏗 Software architecture
+- 📚 Computer Science student, actively building for real clients and coursework
+
+---
+
+## 🧠 Professional Identity
+
+```yaml
+Name: Abdikadir Kosar Osman
+Title:
+  - AI Software Developer
+  - Prompt Engineer
+  - AI Vibe Coder
+Specialization:
+  - AI Applications
+  - Generative AI
+  - Full Stack Development
+  - Automation
+  - Software Systems
+Vision: Building Intelligent Software with AI
+```
+
+> "Design with purpose. Build with quality. Improve with AI."
+
+```
+Human Creativity + Artificial Intelligence + Software Engineering = Intelligent Products
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,java,python,sql" /></p>
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" /></p>
 
-### Frontend
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,python,dotnet" /></p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /></p>
 
-### Backend
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /></p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-
-### AI Tools
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai)
-![Claude](https://img.shields.io/badge/Claude_Code-FF6B35?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+**AI Tools I Use**
+```text
+🤖 ChatGPT
+🧠 Claude Code
+💻 Cursor AI
+🚀 GitHub Copilot
+```
+<!-- Removed "Antigravity" — confirm this is a real product before re-adding; unrecognized name reads as a mistake to anyone technical -->
 
 ---
 
-# 💼 Featured Projects
+## 🧩 Prompt Engineering & AI Workflow
 
-🎓 School Management System
+- Practical prompt design for structured output (JSON schemas, XML tagging, few-shot examples)
+- Familiar with chain-of-thought, ReAct, RAG, and system/role prompting
+- Applied to real deliverables: document generation pipelines, presentation generation, business proposal drafting
+- [Link a repo or writeup here — a claimed skill with no artifact doesn't differentiate you]
 
-🍽 Restaurant POS System
-
-👔 Tailor Management System
-
-🏨 Hotel Management System
-
-🌐 Professional Portfolio Websites
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abdikadirkosar&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdikadirkosar&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdikadirkosar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**My AI development workflow:**
+```text
+💡 Idea → 🧠 Prompt Engineering → 🏗 Architecture → 🎨 UI/UX
+   → 💻 AI-Assisted Coding → 🧪 Testing → 🚀 Deployment → 📈 Iterate
+```
 
 ---
 
-## 🏆 GitHub Trophy
+## 💼 Featured Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdikadirkosar&theme=tokyonight&no-frame=true&row=1"/>
-</p>
+> Still missing: live links and screenshots. A description without a working link is a claim, not proof.
+
+**🎓 School Management System**
+Students · Teachers · Attendance · Exams · Payments · Reports · Administration
+`[stack] · [live link] · [repo link]`
+
+**🍽 Restaurant POS System**
+Orders · Billing · Inventory · Customer management · Reports
+`[stack] · [live link] · [repo link]`
+
+**👔 Tailor Management System**
+Customer measurements · Order tracking · Payments · Invoicing · Production workflow
+`[stack] · [live link] · [repo link]`
+
+**🏨 Hotel Management System**
+Room management · Reservations · Guest records · Billing · Reports
+`[stack] · [live link] · [repo link]`
+
+**🌐 Portfolio Websites**
+3 client portfolio sites — responsive, custom design systems, performance-optimized
+`[stack] · [live link] · [repo link]`
 
 ---
 
-## 📫 Contact
+## 🎯 Currently Learning / Focus
 
-📧 **Email:** Abdikadirkosara@gmail.com
+```text
+🧠 Generative AI
+🤖 AI Agents
+🔗 RAG Systems
+☁️ Cloud Architecture
+🏗 Software Architecture
+⚡ Advanced Vibe Coding
+```
 
-🌐 **Portfolio:** https://abdikadirkosarr.vercel.app/
+## 🤝 Open For Collaboration
 
-🐙 **GitHub:** https://github.com/Abdikadirkosar
+- AI applications
+- SaaS products
+- Full stack projects
+- Automation systems
+- Open source projects
 
 ---
 
-<p align="center">
+## 🏆 Achievements
 
-### ⭐ "Building Intelligent Software with AI"
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abdikadirkosar&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
-</p>
+[Add real, verifiable items: certifications, competitions, notable client deliveries, university recognitions — an empty list here is more honest than padding it]
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abdikadirkosar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdikadirkosar&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdikadirkosar&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</div>
+
+<!-- Snake animation below only renders if the github-contribution-grid-snake Action is actually configured in .github/workflows/ on this repo. Verify before relying on it. -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Abdikadirkosar/Abdikadirkosar/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+```text
+I don't just write code —
+I design ideas, teach AI, and build intelligent software.
+```
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+<a href="https://github.com/Abdikadirkosar">
+<img src="https://img.shields.io/badge/GitHub-Abdikadir-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://abdikadirkosarr.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+📧 Contact via the form on my portfolio or through GitHub — plaintext email deliberately left off to reduce spam-bot scraping. Add a `mailto:` badge back in only if you're fine with that tradeoff.
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Abdikadirkosar&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer"/>
+
+### ⭐ Building Intelligent Software with AI
+
+</div>
