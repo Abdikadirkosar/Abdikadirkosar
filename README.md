@@ -26,6 +26,15 @@ Goal: software that's fast, secure, scalable, and user-friendly.
 
 ---
 
+## 🎓 Education
+
+**BSc Computer Science** — New Generation University, Somaliland
+`[Expected graduation: add date] · [Relevant coursework: Compiler Design, Software Engineering, Java, Databases]`
+
+Currently working on: `[fill in — graduation project direction, active client work, etc.]` *(keep this line updated — it's the first thing a repeat visitor checks)*
+
+---
+
 ## 🧠 Professional Identity
 
 ```yaml
@@ -179,10 +188,20 @@ Explain decisions and testing steps.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdikadirkosar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%"/>
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdikadirkosar&theme=tokyo-night&hide_border=true" width="90%"/>
+</div>
+<!-- Live activity graph — reflects real commits, unlike the static badges above -->
+
 <!-- Snake animation only renders if github-contribution-grid-snake Action is actually configured on this repo -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/Abdikadirkosar/Abdikadirkosar/output/github-contribution-grid-snake.svg"/>
 </div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/README-Last%20Updated%3A%20Aug%202026-2563EB?style=for-the-badge"/>
+</p>
+<!-- Update this date by hand each time you edit the README — a stale-looking profile hurts more than a plain one -->
 
 <!-- Followers/stars badges intentionally left out — for a profile this size they're likely to show single-digit numbers, which undercuts rather than helps. Add back only once the numbers are worth showing. -->
 
