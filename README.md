@@ -69,19 +69,107 @@ Mission: Building Intelligent Software with AI
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Architecture
 
 **Languages**
 <p><img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,java,python,sql" /></p>
 
-**Frontend** — React.js, Next.js, Tailwind CSS, responsive design
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" /></p>
+### 🤖 AI & Machine Learning
 
-**Backend** — Node.js, Express, Python, REST APIs
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python" /></p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **AI / ML Core** | PyTorch, TensorFlow, RAG Architecture, Peft/LoRA, LangChain, OpenCV, YOLOv8 |
 
-**Databases** — PostgreSQL, SQL Server, MongoDB, Supabase
-<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /></p>
+### 🏗️ Core Frontend Stack
+
+| Technology | Role |
+| :--- | :--- |
+| React 19 | Primary UI framework — all components |
+| Next.js | React framework — routing, SSR/SSG |
+| Vite 6 | Build tool & dev server |
+| JavaScript (ES Module) | Primary scripting language |
+| JSX | React component syntax |
+| HTML5 | Entry point markup (`index.html`) |
+| TypeScript | Type-safe application code |
+
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts" /></p>
+
+### 🎨 Styling & Design
+
+| Technology | Role |
+| :--- | :--- |
+| Tailwind CSS v4 | Utility-first CSS — styling across all sections |
+| Vanilla CSS (`index.css`) | Global styles, animations, scroll progress, custom variables |
+| tw-animate-css | Extra Tailwind animation utilities |
+| tailwind-merge + clsx | Dynamic class merging |
+| @fontsource-variable/geist | Geist variable font — premium typography |
+| Google Fonts (Outfit, Inter) | Additional fonts loaded via `index.html` |
+
+<p><img src="https://skillicons.dev/icons?i=tailwind" /></p>
+
+### 🎬 Animation & Motion
+
+| Technology | Role |
+| :--- | :--- |
+| Framer Motion 12 | Page transitions, card animations, `AnimatePresence`, `layoutId` |
+| GSAP 3 | Magnetic buttons, floating pills, text scramble, GSAP context |
+| Canvas API (Vanilla JS) | `NeuralBackground` — interactive particle network |
+| CSS Keyframes | Ping, pulse, spin, float animations |
+| requestAnimationFrame | `OrbitalDiagram` radar sweep, Aurora background |
+
+### 🌐 3D & WebGL
+
+| Technology | Role |
+| :--- | :--- |
+| Three.js | 3D engine — `LanyardCard` physics |
+| @react-three/fiber | React renderer/wrapper for Three.js |
+| @react-three/drei | Three.js helpers (`useGLTF`, etc.) |
+| @react-three/rapier | Physics engine — `LanyardCard` swinging motion |
+| OGL | Aurora background — WebGL shader-based gradient |
+| meshline | 3D line rendering for Three.js |
+
+### ⚙️ Backend & APIs
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend & APIs** | Python, Node.js, Express, FastAPI, Django, Telegram Bot API, REST & GraphQL |
+
+### 🗄️ Database & Storage
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Database & Storage** | PostgreSQL, Supabase RLS, MongoDB, Redis, pgvector |
+
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" /></p>
+
+### ☁️ DevOps & Cloud
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **DevOps & Cloud** | AWS, GCP, Docker, GitHub Actions CI/CD, Vercel Edge Deployments |
+
+<p><img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,vercel" /></p>
+
+### 📦 Libraries & Utilities
+
+| Technology | Role |
+| :--- | :--- |
+| lucide-react | Icon set (Code2, Cpu, Server, Shield, etc.) |
+| react-icons | Additional icons (GitHub, LinkedIn, WhatsApp) |
+| react-toastify | Notification toasts (Contact form) |
+| @emailjs/browser | Email sending — Contact section |
+| Radix UI | Accessible, unstyled UI primitives |
+| shadcn | UI component system (Radix-based) |
+| class-variance-authority | Variant-based component styling |
+
+### 🔧 Dev Tools
+
+| Technology | Role |
+| :--- | :--- |
+| ESLint 10 | Code linting |
+| eslint-plugin-react-hooks | React hooks rules enforcement |
+| eslint-plugin-react-refresh | Fast Refresh support |
+| @vitejs/plugin-react | Vite + React integration |
 
 **Tools**
 <p><img src="https://skillicons.dev/icons?i=github,git,vscode,docker" /></p>
@@ -95,7 +183,7 @@ Mission: Building Intelligent Software with AI
 ```
 <!-- "Antigravity" removed again — confirm this is a real, correctly-named product before re-adding it a third time -->
 
-> ⚠️ Note: the projects below are listed as C# + SQL Server, but this stack section leads with React/Next.js/Node/PostgreSQL. If the shipped projects are actually the C#/SQL Server desktop-style apps, either relabel this section to reflect what you've actually built, or update the project tech tags — right now they contradict each other.
+> ⚠️ Note: the projects below are listed as C# + SQL Server, but this stack section leads with React/Next.js/Node/PostgreSQL plus a full AI/ML and 3D/WebGL stack. If the shipped projects are actually the C#/SQL Server desktop-style apps, either relabel this section to reflect what you've actually built, or update the project tech tags — right now they contradict each other.
 
 ---
 
@@ -218,7 +306,7 @@ Editor: VS Code, Cursor AI
 AI Assistants: ChatGPT, Claude Code, GitHub Copilot
 Version Control: Git, GitHub
 Deployment: Vercel
-Database: PostgreSQL, Supabase, SQL Server
+Database: PostgreSQL, Supabase, SQL Server, MongoDB, Redis
 ```
 
 ---
